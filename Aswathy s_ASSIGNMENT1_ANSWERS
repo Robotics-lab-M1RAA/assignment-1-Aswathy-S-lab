@@ -1,0 +1,22 @@
+(a),rosout
+1.b.rosout node is used to log msgs from nodes and is used to disply them in a single stream.
+1.c.rosout,/rosnose_agg
+1.d.rosout unknown type
+1.e./rosout_agg [rosgraph_msg/log]
+1.f.rosout/get_loggers
+/rosout/set_logger_level
+1.g.since the ros mater is running we cannot kill rosnode
+4.a./CET
+/ASWATHY
+/M1R5AA_24_26
+/rosout
+4.b. /welcome
+/Hello_class
+/Hello_COLLEGE
+/rosout
+/rosout_agg
+4.c.The rosout node for subscribing, logging and republishing the messages.
+4.d. d)[FATAL] [1729835266.382310]: unable to register service [/M1RAA 2024/get_loggers] with master: ERROR: parameter [service] contains illegal chars
+[FATAL] [1729835266.389074]: unable to register service [/M1RAA 2024/set_logger_level] with master: ERROR: parameter [service] contains illegal chars       
+       
+
